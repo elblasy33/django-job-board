@@ -1,4 +1,4 @@
-template clases and menus
+git config -ltemplate clases and menus
    
    job:
       -title
